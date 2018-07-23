@@ -1,13 +1,13 @@
 ===============================================
- django-celery - Celery Integration for Django
+ django-celery - Celery Integration for Django, MySQL `utf8mb4`-compatible version
 ===============================================
 
 .. image:: http://cloud.github.com/downloads/celery/celery/celery_128.png
 
 :Version: 3.2.0
 :Web: http://celeryproject.org/
-:Download: http://pypi.python.org/pypi/django-celery/
-:Source: http://github.com/celery/django-celery/
+:Download: http://pypi.python.org/pypi/django-celery-utf8mb4/
+:Source: http://github.com/shinznatkid/django-celery/
 :Keywords: celery, task queue, job queue, asynchronous, rabbitmq, amqp, redis,
   python, django, webhooks, queue, distributed
 
